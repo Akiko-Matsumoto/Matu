@@ -1,5 +1,3 @@
 ﻿テスト3
 
 master2
-
-branch2
